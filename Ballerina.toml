@@ -1,0 +1,8 @@
+[package]
+org = "gabilan"
+name = "use_hello"
+version = "0.1.0"
+distribution = "2201.12.7"
+
+[build-options]
+observabilityIncluded = true
